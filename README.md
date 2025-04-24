@@ -47,3 +47,6 @@
 #REFERENCE PIC 
 ![Image](https://github.com/user-attachments/assets/b5d930fb-ed99-4d1f-8607-fe472153fa88)
 ![Image](https://github.com/user-attachments/assets/655ec904-1cac-425a-a6d4-c5c9b8bb156b)
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/1399d19b-5fe8-42d2-b500-c5b4f6d10459)
